@@ -25,8 +25,8 @@ audience-repo/
 
 ## Key documents
 
-- `docs/content-engine-scope.md` — the Week 2 spec: goals, audience, channels, workflow, KPIs
-- `baseline/reach-baseline-tracker.xlsx` — Week 2 baseline every future delta is measured against
+- [`ContentEngineScope.md`](ContentEngineScope.md) — the Week 2 spec: goals, audience, channels, workflow, KPIs (will move to `docs/` once the folder scaffold is in place)
+- `baseline/reach-baseline-tracker.xlsx` — Week 2 baseline every future delta is measured against (not yet added to the repo)
 
 ## Notes
 
